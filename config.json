@@ -1,5 +1,5 @@
 {
-  "server": "0.0.0.0",
+  "server": "node-shadowsocks.subjectid65.deno.net",
   "server_port": 8000,
   "local_port": 1080,
   "local_address": "127.0.0.1",
