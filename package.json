@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Shadowsocks implements with nodejs",
   "main": "dist/ss-local.js",
+   "type": "commonjs",
   "scripts": {
     "ss-local": "node dist/ss-local.js",
     "ss-server": "node dist/ss-server.js",
