@@ -4,7 +4,7 @@
       "ES2021"
     ],
     
-    "module": "ESNext",
+    "module": "commonjs",
     "target": "ES2021",
     "declaration": false,
     "noImplicitAny": true,
