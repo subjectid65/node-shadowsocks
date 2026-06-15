@@ -7,5 +7,5 @@
   "method": "aes-256-gcm",
   "timeout": 600,
   "local_http_port": 1090,
-  "tunnel": "tcp"
+  "tunnel": "ws"
 }
